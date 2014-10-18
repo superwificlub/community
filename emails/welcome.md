@@ -6,7 +6,7 @@
     Your password is:     $pass
     Your website is:      http://superwifi.club/~$user
 
-    You can change your website by logging in via ssh: `ssh $user@superwifi.club`
+    You can change your website by logging in via ssh: `ssh $user@superwifi.club`.
     
     Sincerely,
     
