@@ -6,7 +6,7 @@ Your website is:      http://superwifi.club/~$user
 
 CHANGE YOUR PASSWORD
 
-You _must_ change your password immediately because reasons.
+You _must_ change your password _immediately_ because security.
 
     ssh $user@superwifi.club
     passwd
