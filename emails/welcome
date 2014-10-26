@@ -1,0 +1,23 @@
+Hello and welcome to superwifi.club!
+
+Your username is:     $user
+Your password is:     $pass
+Your website is:      http://superwifi.club/~$user
+
+CHANGE YOUR PASSWORD
+
+You _must_ change your password immediately because reasons.
+
+    ssh $user@superwifi.club
+    passwd
+
+MAKE SOME HTML PAGES
+
+    cd public_html
+    nano index.html
+
+Sincerely,
+
+Rey Dhuny
+System Administrator
+http://superwifi.club/~rey
