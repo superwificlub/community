@@ -2,9 +2,11 @@
 
 Welcome to superwifi.club!
 
+* You are one of the first! Have a poke about and see what's what.
 * `cd public_html` and edit `index.html` with `vim` or `nano`
 * Mail works, but only internally -- use `mail` or `mutt`
 * `finger` works, but only internally
+* An ircd is next on my list -- it's probably going to be `charybdis`
 * Waiting list: http://goo.gl/forms/FvqpTWstzJ
 * Join #superwificlub on Freenode
 * Follow @superwificlub on twttr
