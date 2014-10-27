@@ -2,7 +2,8 @@
 
 Welcome to superwifi.club!
 
-* You are one of the first! Have a poke about and see what's what.
+You are one of the first! Have a poke about and see what's what.
+
 * `cd public_html` and edit `index.html` with `vim` or `nano`
 * Mail works, but only internally -- use `mail` or `mutt`
 * `finger` works, but only internally
